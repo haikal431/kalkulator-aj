@@ -14,3 +14,5 @@ Tampilkan Hasil a. Setelah operasi matematika selesai, tampilkan hasil perhitung
 Berikut adalah gambaran kalkulatornya: >
 
 ![Screenshot 2025-02-14 091641](https://github.com/user-attachments/assets/53070345-e51b-4281-a874-5159f9f4b159)
+
+![WhatsApp Image 2025-02-14 at 09 25 41](https://github.com/user-attachments/assets/3a0444ac-a242-4716-a44f-633effa9756e)
