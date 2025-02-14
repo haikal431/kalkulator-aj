@@ -12,4 +12,5 @@ Implementasikan Logika Program a. Tulis kode untuk menangani input pengguna dan 
 Validasi Input Pengguna a. Periksa apakah input yang diberikan oleh pengguna adalah angka yang valid. b. Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
 Tampilkan Hasil a. Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox. b. Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
 Berikut adalah gambaran kalkulatornya: >
+
 ![Screenshot 2025-02-14 091641](https://github.com/user-attachments/assets/53070345-e51b-4281-a874-5159f9f4b159)
